@@ -30,7 +30,7 @@
     "node-homedir": "^1.0.0",
     "npm-updater": "^3.0.1",
     "urllib": "^2.22.0",
-    "mz-modules": "^1.0.0",
+    "mz-modules": "^2.0.0",
     "yargs": "^8.0.1"
   },
   "devDependencies": {
