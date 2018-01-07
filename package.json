@@ -38,7 +38,7 @@
     "coffee": "3.3.2",
     "egg-bin": "4.3.7",
     "egg-ci": "1.8.0",
-    "eslint": "4.14.0",
+    "eslint": "4.15.0",
     "babel-eslint": "8.1.2",
     "eslint-config-avet": "0.3.11",
     "intelli-espower-loader": "1.0.1",
