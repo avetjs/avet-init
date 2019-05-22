@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "autod": "3.0.1",
-    "coffee": "3.3.2",
+    "coffee": "4.1.0",
     "egg-bin": "4.3.7",
     "egg-ci": "1.8.0",
     "eslint": "4.15.0",
